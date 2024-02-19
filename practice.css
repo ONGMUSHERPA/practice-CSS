@@ -1,0 +1,13 @@
+ body {background-color:aquamarine;}
+
+ h1 {color:rgb(89, 14, 124);}
+ h2 {color:rgb(18, 69, 113);}
+ h3 {color:rgb(21, 85, 46)}
+ h1 {font-size: xx-large;}
+ h2 {font-size:x-large}
+ h3 {font-size:larger}
+ h1 {font-stretch: extra-expanded;}
+ h2 {font-stretch:normal;}    
+    p {color:black;}
+    p {font-style: italic;}
+    p {font-weight: bold;}
